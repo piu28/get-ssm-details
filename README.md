@@ -7,7 +7,7 @@ SSM Managed Instances Patch Data:
 ![Alt text](images/ssm-patch.jpg?raw=true "SSM Patch")
 
 
-To get the above data from CLI: Clone the Repo, Add the Instances IDs in "instanceids.txt" (One Instance Id in each line) and Execute the script with the following arguments:
+To get the above data from CLI: Clone the Repo, Add the Instances IDs in "instance-id.txt" (One Instance Id in each line) and Execute the script with the following arguments:
 ```
 ./get-ssm-details.sh --action <action-name>
 ```
