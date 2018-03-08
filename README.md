@@ -11,7 +11,7 @@ To get the above data from CLI: Clone the Repo, Add the Instances IDs in "instan
 ```
 ./get-ssm-details.sh --action <action-name>
 ```
-Provide action-name as  one of the available actions below:
+Provide action-name as one of the mentioned actions below:
 ```
 - get-inventory-list
 - get-patch-list 
